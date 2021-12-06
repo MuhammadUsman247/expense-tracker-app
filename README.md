@@ -3,6 +3,9 @@
 
 A Simple income and expense tracker which will record income and expenses and also summerize them.
 
+![](expense-tracker-app-screenshot.jpg)
+
+
 ## Tech Stack Used
 
 React.JS (featuring useSate, useContext, useReduce Hooks)
