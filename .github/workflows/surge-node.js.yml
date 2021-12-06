@@ -29,7 +29,7 @@ jobs:
    
     #Build React App with yarn
     - name: Build React Ap
-      run: yarn build
+      run: sudo yarn build
 
     #Install surge
     - name: Install surge
