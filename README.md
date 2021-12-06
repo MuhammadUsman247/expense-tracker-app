@@ -6,10 +6,17 @@ A Simple income and expense tracker which will record income and expenses and al
 ## Tech Stack Used
 
 React.JS (featuring useSate, useContext, useReduce Hooks)
+
 CSS
+
 HTML
+
 Github Actions
+
 Surge Deployment via Github Actions
+
+
+## Project Links
 
 
 Repo: https://github.com/MuhammadUsman247/expense-tracker-app
